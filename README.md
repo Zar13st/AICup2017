@@ -1,1 +1,1 @@
-# AiCup
+# http://russianaicup.ru/
